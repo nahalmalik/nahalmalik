@@ -13,14 +13,15 @@ I love turning complex ideas into clean, scalable, and maintainable web applicat
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS3</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50"/><br>Django</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind</td>
   </tr>
 </table>
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=nahalmalik&theme=tokyonight&no-frame=true&margin-w=15" />
 
 ## 📊 GitHub Stats
 
