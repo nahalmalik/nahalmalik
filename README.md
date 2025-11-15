@@ -22,8 +22,6 @@ I love turning complex ideas into clean, scalable, and maintainable web applicat
   </tr>
 </table>
 
----
-
 ## 📊 GitHub Stats
 
 <table>
@@ -42,17 +40,10 @@ I love turning complex ideas into clean, scalable, and maintainable web applicat
   </tr>
 </table>
 
----
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/nahalmalik/nahalmalik/blob/output/github-contribution-grid-snake.svg)
-
-
 ## 📫 Get in Touch
 
 I’m always open to connecting or collaborating on something exciting — whether it’s a new project or just to say hi!  
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 📧 nahalimran2001@example.com   
-
----
 
 *“Code is like humor — when you have to explain it, it’s bad.”* 😉  
