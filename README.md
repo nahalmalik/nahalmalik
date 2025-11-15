@@ -44,4 +44,4 @@ I’m always open to connecting or collaborating on something exciting — wheth
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 📧 nahalimran2001@example.com   
 
-*“Code is like humor — when you have to explain it, it’s bad.”* 😉  
+<h2 align="center">*“Code is like humor — when you have to explain it, it’s bad.”* 😉 </h2> 
