@@ -19,9 +19,6 @@ I love turning complex ideas into clean, scalable, and maintainable web applicat
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind</td>
   </tr>
 </table>
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=nahalmalik&theme=tokyonight&no-frame=true&margin-w=15" />
 
 ## 📊 GitHub Stats
 
