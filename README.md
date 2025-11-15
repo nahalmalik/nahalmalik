@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Nahal Malik
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![GitHub Followers](https://img.shields.io/github/followers/nahalmalik?label=Follow&style=social)](https://github.com/nahalmalik)  
-
 ---
 
 ## 🧭 About Me
