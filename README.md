@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Nahal Malik
 
----
-
 ## 🧭 About Me
 
 I am a **passionate Full-stack Developer** who thrives on creating beautiful, performant, and user-focused digital experiences.  
