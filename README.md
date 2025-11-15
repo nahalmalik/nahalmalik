@@ -5,7 +5,6 @@
 I am a **passionate Full-stack Developer** who thrives on creating beautiful, performant, and user-focused digital experiences.  
 I love turning complex ideas into clean, scalable, and maintainable web applications, and I'm always learning new technologies and best practices.
 
----
 ## 🔧 Tech Stack
 
 <table>
@@ -42,8 +41,11 @@ I love turning complex ideas into clean, scalable, and maintainable web applicat
     </td>
   </tr>
 </table>
-![Profile Views](https://komarev.com/ghpvc/?username=nahalmalik&label=Profile%20Visits&color=blueviolet)
+
 ---
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/nahalmalik/nahalmalik/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📫 Get in Touch
 
