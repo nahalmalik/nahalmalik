@@ -7,7 +7,7 @@ I love turning complex ideas into clean, scalable, and maintainable web applicat
 
 ## 🔧 Tech Stack
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS3</td>
