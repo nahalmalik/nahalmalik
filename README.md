@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Nahal Malik
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=25&center=true&vCenter=true&width=1000&lines=Hi+I'm+Nahal+Malik;Full-stack+Developer;React+%2B+Python+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
-
 
 ## 🧭 About Me
 
@@ -44,7 +42,8 @@ I love turning complex ideas into clean, scalable, and maintainable web applicat
     </td>
   </tr>
 </table>
-
+![Profile Views](https://komarev.com/ghpvc/?username=nahalmalik&label=Profile%20Visits&color=blueviolet)
+---
 
 ## 📫 Get in Touch
 
