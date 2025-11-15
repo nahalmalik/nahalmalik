@@ -22,7 +22,7 @@ I love turning complex ideas into clean, scalable, and maintainable web applicat
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=nahalmalik&show_icons=true&theme=tokyonight" />
