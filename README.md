@@ -17,15 +17,24 @@ Here are some of the key techs and tools I work with:
 - **Backend**: Django,PHP 
 - **Styling**: Tailwind CSS, Styled Components  
 
----
-
 ## 📊 GitHub Stats
 
-[![Nahal’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahalmalik&show_icons=true&theme=tokyonight)](https://github.com/nahalmalik)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahalmalik&layout=compact&theme=tokyonight)](https://github.com/nahalmalik)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nahalmalik&theme=tokyonight)](https://github.com/nahalmalik)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nahalmalik&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahalmalik&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=nahalmalik&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
----
 
 ## 📫 Get in Touch
 
