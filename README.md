@@ -1,24 +1,122 @@
-# 👋 Hi, I’m Nahal Malik
+# 👋 Hi, I'm Nahal Malik
 
-## 🧭 About Me
+### Full-Stack Developer | React • Django • WordPress • UI/UX
 
-I am a **passionate Full-stack Developer** who thrives on creating beautiful, performant, and user-focused digital experiences.  
-I love turning complex ideas into clean, scalable, and maintainable web applications, and I'm always learning new technologies and best practices.
+I’m a **Software Engineer and Full-Stack Developer** focused on building modern, responsive, and user-friendly web applications.
 
-## 🔧 Tech Stack
+I enjoy turning ideas into practical digital products — from polished frontend interfaces and business websites to full-stack applications with structured backends.
+
+I work across **frontend development, backend development, WordPress, and UI/UX**, while continuously improving my skills through real-world projects and experimentation with modern technologies.
+
+---
+
+## 🚀 What I Do
+
+* 💻 Build responsive web applications with **React and JavaScript**
+* ⚙️ Develop backend solutions using **Django and Python**
+* 🌐 Create and customize **WordPress websites**
+* 🎨 Design clean and intuitive interfaces with **Figma**
+* 📱 Build responsive, user-focused digital experiences
+* 🧩 Develop custom solutions for businesses and organizations
+* 🚀 Turn ideas and requirements into functional products
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS3</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50"/><br>Django</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind CSS
+    </td>
   </tr>
 </table>
+
+### Backend & Development
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=django" width="45"/><br>Django
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="45"/><br>PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45"/><br>WordPress
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker
+    </td>
+  </tr>
+</table>
+
+### Design & Tools
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45"/><br>Android Studio
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 What I'm Working On
+
+### 🏢 NovaStack Solutions
+
+I’m involved in building and delivering digital solutions through **NovaStack Solutions**, working on web applications, business websites, software solutions, and technology-focused projects.
+
+### 🌐 Freelance Development
+
+I also work independently on **freelance projects**, developing websites and applications based on client requirements and project goals.
+
+---
+
+## 📌 Featured Projects
+
+Some of the projects I've worked on:
+
+* 🐍 **SnakeX** — Classic Snake game developed with Flutter and Dart
+* 📅 **Meeting System** — Meeting and consultation scheduling platform with online and in-person appointment booking
+* 🎓 **MentorCraft** — E-learning platform developed with React and Django
+* 🧾 **InvoQuote** — Business document and quotation management system
+* 🌐 **CivilCircle** — Platform designed for CSS aspirants and competitive-exam preparation
+
+Explore my repositories to see more of my work.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -38,10 +136,16 @@ I love turning complex ideas into clean, scalable, and maintainable web applicat
   </tr>
 </table>
 
-## 📫 Get in Touch
+---
 
-I’m always open to connecting or collaborating on something exciting — whether it’s a new project or just to say hi!  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 nahalimran2001@example.com   
+## 🤝 Let's Connect
 
-<h3 align="center">“Code is like humor — when you have to explain it, it’s bad.” 😉 </h3> 
+I’m open to **freelance opportunities, collaborations, interesting projects, and professional connections**.
+
+* 💼 LinkedIn — [Connect with me](https://www.linkedin.com/)
+* 📧 Email — `your-email@example.com`
+* 💻 GitHub — [@nahalmalik](https://github.com/nahalmalik)
+
+---
+
+<h3 align="center">Building ideas into digital experiences. 🚀</h3>
