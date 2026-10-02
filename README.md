@@ -142,7 +142,7 @@ Explore my repositories to see more of my work.
 
 I’m open to **freelance opportunities, collaborations, interesting projects, and professional connections**.
 
-* 💼 LinkedIn — [Connect with me](https://www.linkedin.com/)
+* 💼 LinkedIn — [Connect with me]([https://www.linkedin.com/](https://www.linkedin.com/in/nahal-malik-795029266/?isSelfProfile=true))
 * 📧 Email — `your-email@example.com`
 * 💻 GitHub — [@nahalmalik](https://github.com/nahalmalik)
 
