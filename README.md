@@ -111,7 +111,7 @@ Exploring cybersecurity and ethical hacking, with an interest in Linux-based sec
 ## 📜 Certifications & Learning
 
 * 🛡️ **Certified Ethical Hacking (CEH)**
-* ⚙️ **DevOps Engineering** — Currently Learning
+* ⚙️ **DevOps Engineering** 
 
 ---
 
