@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nahal Malik
+# 👋 Hi, I'm Nahal Binte Imran
 
 ### Software Engineer | DevOps • Cybersecurity • Full-Stack Development
 
